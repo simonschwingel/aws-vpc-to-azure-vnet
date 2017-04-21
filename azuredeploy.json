@@ -12,7 +12,11 @@
         "North Central US",
         "East Asia",
         "West US",
-        "Central US"
+        "Central US",
+        "Germany Central",
+        "Germany Northeast",
+        "North Europe",
+        "West Europe"
       ]
     },
     "vpnType": {
