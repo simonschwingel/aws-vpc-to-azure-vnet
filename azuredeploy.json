@@ -121,22 +121,9 @@
       "type": "string",
       "defaultValue": "Standard_A1",
       "allowedValues": [
-        "Standard_A1",
-        "Standard_A2",
-        "Standard_A3",
-        "Standard_A6",
-        "Standard_A7",
-        "Standard_A8",
-        "Standard_A9",
-        "Standard_A10",
-        "Standard_A11",
-        "Standard_D2",
-        "Standard_D3",
-        "Standard_D4",
-        "Standard_D11",
-        "Standard_D12",
-        "Standard_D13",
-        "Standard_D14"
+        "Standard_A1_v2",
+        "Standard_A2_v2",
+        "Standard_A3_v2"
       ],
       "metadata": {
         "description": "Size of the Virtual Machine."
